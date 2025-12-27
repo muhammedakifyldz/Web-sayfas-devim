@@ -3,7 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #28a745;
 }
 
 nav {
@@ -51,3 +51,4 @@ footer {
     background: #333;
     color: white;
 }
+
